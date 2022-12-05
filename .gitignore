@@ -1,5 +1,5 @@
 env/
-data/
+images/
 test_data/
 .vscode/
 saved_model/
