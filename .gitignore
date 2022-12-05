@@ -1,2 +1,6 @@
 env/
-images/
+data/
+test_data/
+.vscode/
+saved_model/
+flagged/
