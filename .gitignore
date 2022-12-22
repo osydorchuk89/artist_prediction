@@ -1,6 +1,6 @@
 env/
+artists/
+styles/
 images/
-test_data/
 .vscode/
-saved_model/
 flagged/

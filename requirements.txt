@@ -1,5 +1,5 @@
 ipykernel==6.17.0
 pandas==1.5.1
 seaborn==0.12.1
-tensorflow==2.10.0
+tensorflow==2.9.0
 gradio==3.12.0
