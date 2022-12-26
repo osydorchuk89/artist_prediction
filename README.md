@@ -6,4 +6,4 @@ The code and the description of the project workflow is available in the artist_
 
 The resulting machine learning demo that attempts to recognize authors of famous paintings is available on Hugging Face Saces [here](https://huggingface.co/spaces/osydorchuk/painting_authors). Given the dataset limitations, the model only recognizes paintings of 50 artists.
 
-The post on Medium outlining key results of the project will follow soon.
+The post on Medium outlining key results of the project is available [here](https://medium.com/@oleksii.sydorchuk/building-my-first-book-recommender-engine-results-and-lessons-learned-4aad48d29f00).
