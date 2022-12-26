@@ -1,4 +1,4 @@
-# Predicting artist of paintings
+# Predicting authors of famous paintings
 
 In this project, I experimented with several deep learning models to predict artist of paintings. I used [this dataset](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time) of 8,000+ paintings by 50 famous artists from Kaggle to train the model.
 
